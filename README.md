@@ -1,5 +1,7 @@
 # Novel Hub
 
+> 此版本含有大量bug，见重构版 github.com/interset-wq/nookdata
+
 A novel metadata website for sfacg.com, built with Django + Tailwind CSS.
 
 ## Features
